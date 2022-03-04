@@ -47,6 +47,17 @@ body {
       float: right;
   }
 
+  .NavBar .searchContainer button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: lightgray;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+
   .NavBar input {
     padding: 6px;
     margin-top: 8px;
